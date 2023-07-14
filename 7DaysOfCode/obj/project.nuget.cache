@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "71shROH6Yj+XUDkFcBDmqBEdKqUfLwCK/rjFM2d+TSPrfxZGBmkVKPuqqLlJFkvoElq+a1m1VvUer8jduED+QQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Gustavo Soares\\Desktop\\7DaysOfCode\\7DaysOfCode\\7DaysOfCode.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gustavo Soares\\.nuget\\packages\\restsharp\\110.2.0\\restsharp.110.2.0.nupkg.sha512",
+    "C:\\Users\\Gustavo Soares\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\Gustavo Soares\\.nuget\\packages\\system.text.json\\7.0.2\\system.text.json.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+C:\Users\Gustavo Soares\Desktop\7DaysOfCode\7DaysOfCode\bin\Debug\net7.0\7DaysOfCode.exe
+C:\Users\Gustavo Soares\Desktop\7DaysOfCode\7DaysOfCode\bin\Debug\net7.0\7DaysOfCode.deps.json
+C:\Users\Gustavo Soares\Desktop\7DaysOfCode\7DaysOfCode\bin\Debug\net7.0\7DaysOfCode.runtimeconfig.json
+C:\Users\Gustavo Soares\Desktop\7DaysOfCode\7DaysOfCode\bin\Debug\net7.0\7DaysOfCode.dll
+C:\Users\Gustavo Soares\Desktop\7DaysOfCode\7DaysOfCode\bin\Debug\net7.0\7DaysOfCode.pdb
+C:\Users\Gustavo Soares\Desktop\7DaysOfCode\7DaysOfCode\bin\Debug\net7.0\RestSharp.dll
+C:\Users\Gustavo Soares\Desktop\7DaysOfCode\7DaysOfCode\obj\Debug\net7.0\7DaysOfCode.csproj.AssemblyReference.cache
+C:\Users\Gustavo Soares\Desktop\7DaysOfCode\7DaysOfCode\obj\Debug\net7.0\7DaysOfCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo Soares\Desktop\7DaysOfCode\7DaysOfCode\obj\Debug\net7.0\7DaysOfCode.AssemblyInfoInputs.cache
+C:\Users\Gustavo Soares\Desktop\7DaysOfCode\7DaysOfCode\obj\Debug\net7.0\7DaysOfCode.AssemblyInfo.cs
+C:\Users\Gustavo Soares\Desktop\7DaysOfCode\7DaysOfCode\obj\Debug\net7.0\7DaysOfCode.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo Soares\Desktop\7DaysOfCode\7DaysOfCode\obj\Debug\net7.0\7DaysOfCode.csproj.CopyComplete
+C:\Users\Gustavo Soares\Desktop\7DaysOfCode\7DaysOfCode\obj\Debug\net7.0\7DaysOfCode.dll
+C:\Users\Gustavo Soares\Desktop\7DaysOfCode\7DaysOfCode\obj\Debug\net7.0\refint\7DaysOfCode.dll
+C:\Users\Gustavo Soares\Desktop\7DaysOfCode\7DaysOfCode\obj\Debug\net7.0\7DaysOfCode.pdb
+C:\Users\Gustavo Soares\Desktop\7DaysOfCode\7DaysOfCode\obj\Debug\net7.0\7DaysOfCode.genruntimeconfig.cache
+C:\Users\Gustavo Soares\Desktop\7DaysOfCode\7DaysOfCode\obj\Debug\net7.0\ref\7DaysOfCode.dll
